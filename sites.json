@@ -1,0 +1,7 @@
+[
+  {"name": "Google", "url": "https://google.com"},
+  {"name": "Яндекс", "url": "https://ya.ru"},
+  {"name": "Несуществующий сайт", "url": "https://qwerty12345-nope.ru"},
+  {"name": "GitHub", "url": "https://github.com"},
+  { "name": "Тест Таймаута", "url": "http://10.255.255.1"}
+]
